@@ -1,4 +1,4 @@
-# Schachspiel_java_uebung
+# Schachspiel
 
 Mit Java/Eclipse erstelltes Schachspiel als Programmierübung von Oktober 2021.
 
